@@ -25,6 +25,7 @@
 47.76.49.246:2053#HK-45102-Alibaba
 47.76.77.103:443#HK-45102-Alibaba
 47.242.60.161:443#HK-45102-Alibaba
+47.76.94.15:2053#HK-45102-Alibaba
 52.175.20.132:32211#HK-Microsoft Azure
 35.220.251.52:443#HK-Cloudflare Warp
 35.201.203.106:443#TW-Google Cloud
@@ -34,6 +35,7 @@
 101.32.242.254:53821#SG-Tencent cloud computing
 43.159.35.190:49142#SG-Tencent cloud computing
 43.156.97.73:20872#SG-Tencent cloud computing
+43.153.208.195:26306#SG-Tencent cloud computing
 172.252.245.139:34237#JP-Evoxt Enterprise
 107.165.195.221:34237#JP-Evoxt Enterprise
 107.165.195.71:34237#JP-Evoxt Enterprise
@@ -45,12 +47,14 @@
 45.78.55.32:28874#JP-IT7 Networks
 206.190.234.185:33533#JP-IT7 Networks
 206.190.239.107:8080#JP-IT7 Networks
+23.106.131.230:990#JP-IT7 Networks
 203.183.9.89:34237#JP-IDC Frontier
 154.40.52.139:39855#JP-Kuiper Network
 146.56.141.168:47590#KR-Oracle Cloud
 152.70.239.134:34237#KR-Oracle Cloud
 132.226.171.158:9527#KR-Oracle Cloud
 130.162.142.158:34237#KR-Oracle Cloud
+193.122.103.10:45171#KR-Oracle Cloud
 192.69.90.203:35658#US-IT7 Networks Inc
 7.230.160.122:50059#US-IT7 Networks Inc
 67.230.160.122:50059#US-IT7 Networks
@@ -60,3 +64,4 @@
 64.64.224.226:563#us-Fiber-logic
 64.64.253.96:34237#us-Fiber-logic
 80.251.211.51:34237#us-Fiber-logic
+45.59.187.130:34237#us-DMIT
