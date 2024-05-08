@@ -29,6 +29,7 @@
 47.76.94.15:2053#HK-45102-Alibaba
 47.243.118.41:34237#HK-45102-Alibaba
 52.175.20.132:32211#HK-Microsoft Azure
+20.187.117.232:32340#HK-Microsoft Azure
 35.220.251.52:443#HK-Cloudflare Warp
 35.201.203.106:443#TW-Google Cloud
 118.163.175.168:23555#TW-Chunghwa Telecom
