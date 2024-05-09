@@ -31,9 +31,11 @@
 47.76.94.15:2053#HK-45102-Alibaba
 47.243.118.41:34237#HK-45102-Alibaba
 47.242.202.230:2053#HK-45102-Alibaba
+8.218.22.210:2083#HK-45102-Alibaba
 52.175.20.132:32211#HK-Microsoft Azure
 20.187.117.232:32340#HK-Microsoft Azure
 20.255.48.247:52138#HK-Microsoft Azure
+20.187.105.97:44097#HK-Microsoft Azure
 35.220.251.52:443#HK-Cloudflare Warp
 35.201.203.106:443#TW-Google Cloud
 118.163.175.168:23555#TW-Chunghwa Telecom
@@ -43,6 +45,7 @@
 43.159.35.190:49142#SG-Tencent cloud computing
 43.156.97.73:20872#SG-Tencent cloud computing
 43.153.208.195:26306#SG-Tencent cloud computing
+43.134.189.122:34237#SG-Tencent cloud computing
 159.138.106.242:80#SG-Tencent Huawei Cloud
 172.252.245.139:34237#JP-Evoxt Enterprise
 107.165.195.221:34237#JP-Evoxt Enterprise
