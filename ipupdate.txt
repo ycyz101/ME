@@ -53,6 +53,7 @@
 20.187.105.97:44097#HK-Microsoft Azure
 20.187.117.232:32340#HK-Microsoft Azure
 20.239.29.247:34237#HK-Microsoft Azure
+20.247.124.228:55283#HK-Microsoft Azure
 20.255.48.247:52138#HK-Microsoft Azure
 52.175.20.132:32211#HK-Microsoft Azure
 35.201.203.106:443#TW-Google Cloud
@@ -98,6 +99,7 @@
 146.56.141.168:47590#KR-Oracle Cloud
 146.56.171.182:11659#KR-Oracle Cloud
 152.70.239.134:34237#KR-Oracle Cloud
+152.70.245.66:12693#KR-Oracle Cloud
 193.122.103.10:45171#KR-Oracle Cloud
 193.123.235.59:443#KR-Oracle Cloud
 67.230.160.122:50059#US-IT7 Networks Inc
