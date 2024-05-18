@@ -16,6 +16,7 @@
 35.220.251.52:443#HK-Cloudflare Warp
 43.154.34.74:1935#HK-Tencent cloud computing
 103.20.223.100:12546#HK-Cnservers LLC
+154.9.246.188:18859#HK-Cloudie
 154.9.247.3:25950#HK-Cloudie
 154.204.56.238:34237#HK-Multacom Corporation
 154.204.60.218:29876#HK-Multacom Corporation
@@ -96,6 +97,7 @@
 193.111.31.76:30001#JP-xTom
 129.154.223.89:15800#KR-Oracle Cloud
 130.162.142.158:34237#KR-Oracle Cloud
+132.145.91.171:8443#KR-Oracle Cloud
 132.145.91.226:15238#KR-Oracle Cloud
 132.226.21.116:6056#KR-Oracle Cloud
 132.226.171.158:9527#KR-Oracle Cloud
