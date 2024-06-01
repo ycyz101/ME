@@ -67,6 +67,7 @@
 8.217.167.88:2053#HK-45102-Alibaba
 8.217.221.165:2083#HK-45102-Alibaba
 8.218.3.12:2053#HK-45102-Alibaba
+8.218.22.210:8443#HK-45102-Alibaba
 8.218.22.210:2083#HK-45102-Alibaba
 8.218.126.53:443#HK-45102-Alibaba
 8.218.127.249:8443#HK-45102-Alibaba
@@ -93,6 +94,7 @@
 211.72.156.10:23555#TW-Chunghwa Telecom
 211.72.156.11:23555#TW-Chunghwa Telecom
 211.72.156.17:23555#TW-Chunghwa Telecom
+211.75.223.83:23555#TW-Chunghwa Telecom
 220.132.74.19:11683#TW-Chunghwa Telecom
 43.134.189.122:34237#SG-Tencent cloud computing
 43.153.208.195:26306#SG-Tencent cloud computing
