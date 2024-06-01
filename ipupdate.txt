@@ -85,6 +85,7 @@
 34.80.86.119:4443#TW-Google Wifi
 35.201.203.106:4443#TW-Google Wifi
 35.201.203.106:443#TW-Google Google Cloud
+60.249.89.74:23555#TW-Chunghwa Telecom
 118.163.175.167:23555#TW-Chunghwa Telecom
 118.163.175.168:23555#TW-Chunghwa Telecom
 125.227.213.107:23555#TW-Chunghwa Telecom
@@ -160,6 +161,7 @@
 152.70.245.66:12693#KR-Oracle Cloud
 193.122.103.10:45171#KR-Oracle Cloud
 193.123.235.59:443#KR-Oracle Cloud
+193.123.239.18:49248#KR-Oracle Cloud
 67.230.160.122:50059#US-IT7 Networks Inc
 89.208.243.60:34237#US-IT7 Networks Inc
 89.208.243.139:10443#US-IT7 Networks Inc
