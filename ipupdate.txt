@@ -20,6 +20,7 @@
 43.154.34.74:1935#HK-Tencent cloud computing
 43.154.45.8:31717#HK-Tencent cloud computing
 119.28.189.227:32079#HK-Tencent cloud computing
+103.20.222.23:10008#HK-Cnservers LLC
 103.20.223.100:12546#HK-Cnservers LLC
 112.120.250.175:44333#HK-Netvigator Home Broadband
 152.32.190.239:4331#HK-Ucloud Information Technology
@@ -169,6 +170,7 @@
 193.122.103.10:45171#KR-Oracle Cloud
 193.123.235.59:443#KR-Oracle Cloud
 193.123.239.18:49248#KR-Oracle Cloud
+23.105.223.11:8080#US-IT7 Networks Inc
 67.230.160.122:50059#US-IT7 Networks Inc
 89.208.243.60:34237#US-IT7 Networks Inc
 89.208.243.139:10443#US-IT7 Networks Inc
