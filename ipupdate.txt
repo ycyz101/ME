@@ -36,6 +36,7 @@
 45.153.130.138:51729#HK-Cloudie
 154.9.246.188:18859#HK-Cloudie
 154.9.247.3:25950#HK-Cloudie
+154.9.247.3:27061#HK-Cloudie
 206.237.20.46:22402#HK-Cloudie
 206.237.20.46:50701#HK-Cloudie
 154.204.56.238:34237#HK-Multacom Corporation
@@ -102,6 +103,8 @@
 35.201.203.106:4443#TW-Google Wifi
 35.201.203.106:443#TW-Google Google Cloud
 60.249.89.74:23555#TW-Chunghwa Telecom
+
+640.249.89.74:23555#TW-Chunghwa Telecom
 118.163.175.167:23555#TW-Chunghwa Telecom
 118.163.175.168:23555#TW-Chunghwa Telecom
 125.227.213.107:23555#TW-Chunghwa Telecom
