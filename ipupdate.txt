@@ -103,8 +103,7 @@
 35.201.203.106:4443#TW-Google Wifi
 35.201.203.106:443#TW-Google Google Cloud
 60.249.89.74:23555#TW-Chunghwa Telecom
-
-640.249.89.74:23555#TW-Chunghwa Telecom
+61.222.202.100:23555#TW-Chunghwa Telecom
 118.163.175.167:23555#TW-Chunghwa Telecom
 118.163.175.168:23555#TW-Chunghwa Telecom
 125.227.213.107:23555#TW-Chunghwa Telecom
