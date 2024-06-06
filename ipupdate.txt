@@ -67,6 +67,7 @@
 47.243.118.41:34237#HK-45102-Alibaba
 47.243.172.103:55041#HK-45102-Alibaba
 47.243.173.187:443#HK-45102-Alibaba
+7.243.173.187:2053#HK-45102-Alibaba
 47.243.183.127:2083#HK-45102-Alibaba
 47.243.203.119:2053#HK-45102-Alibaba
 47.243.227.209:62001#HK-45102-Alibaba
@@ -215,6 +216,7 @@
 64.64.234.115:2054#us-Fiber-logic
 64.64.231.33:36882#us-Fiber-logic
 64.64.234.235:53456#us-Fiber-logic
+64.64.238.31:443#us-Fiber-logic
 64.64.253.96:34237#us-Fiber-logic
 80.251.211.51:34237#us-Fiber-logic
 80.251.219.120:14105#us-Fiber-logic
@@ -223,3 +225,4 @@
 199.193.126.248:29325#us-Fiber-logic
 216.24.181.38:54324#us-Fiber-logic
 45.59.187.130:34237#us-DMI
+89.208.246.168:35365#us-Hurricane Electric IPv6 tunnel broker
