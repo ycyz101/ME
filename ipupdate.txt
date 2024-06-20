@@ -108,6 +108,7 @@
 34.80.86.119:4443#TW-Google Wifi
 35.201.203.106:4443#TW-Google Wifi
 34.80.169.1:443#TW-Google Cloud
+34.80.169.1:4443#TW-Google Cloud
 34.80.227.7:9998#TW-Google Cloud
 35.201.203.106:443#TW-Google Cloud
 60.249.89.74:23555#TW-Chunghwa Telecom
