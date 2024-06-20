@@ -27,6 +27,7 @@
 43.224.50.213:36799#HK-Broadband Network
 123.202.145.26:443#HK-Broadband Network
 152.32.190.239:4331#HK-Ucloud Information Technloy
+202.81.235.17:4331#HK-2012 Netfront
 45.89.233.78:15548#HK-Cloudie
 45.153.130.138:51729#HK-Cloudie
 154.9.246.188:18859#HK-Cloudie
@@ -87,6 +88,7 @@
 8.217.167.88:2053#HK-45102-Alibaba
 8.217.221.165:2083#HK-45102-Alibaba
 8.218.3.12:2053#HK-45102-Alibaba
+8.218.3.12:2053#HK-45102-Alibaba
 8.218.22.210:8443#HK-45102-Alibaba
 8.218.22.210:2083#HK-45102-Alibaba
 8.218.126.53:443#HK-45102-Alibaba
@@ -127,6 +129,7 @@
 43.156.56.22:7676#SG-Tencent cloud computing
 43.156.97.73:20872#SG-Tencent cloud computing
 43.156.119.123:58000#SG-Tencent cloud computing
+43.156.243.45:34237#SG-Tencent cloud computing
 43.159.35.190:49142#SG-Tencent cloud computing
 101.32.242.254:53821#SG-Tencent cloud computing
 119.28.189.227:32079#SG-Tencent cloud computing
@@ -185,6 +188,7 @@
 150.66.24.104:34237#JP-K
 154.40.52.139:39855#JP-Kuiper Network
 172.84.93.56:24167#JP-Kuiper Network
+172.84.92.12:34237#JP-Digitalvirt
 45.66.129.168:13333#JP-xTom
 45.159.48.224:443#JP-xTom
 185.184.223.19:59775#JP-xTom
