@@ -23,6 +23,7 @@
 119.28.189.227:32079#HK-Tencent cloud computing
 103.20.222.23:10008#HK-Cnservers LLC
 103.20.223.100:12546#HK-Cnservers LLC
+103.30.78.25:33914#HK-Overland Storage
 112.120.250.175:44333#HK-Netvigator Home Broadband
 43.224.50.213:36799#HK-Broadband Network
 123.202.145.26:443#HK-Broadband Network
@@ -111,6 +112,7 @@
 34.80.169.1:4443#TW-Google Cloud
 34.80.227.7:9998#TW-Google Cloud
 35.201.203.106:443#TW-Google Cloud
+35.229.179.98:25775#TW-Google Cloud
 60.249.89.74:23555#TW-Chunghwa Telecom
 61.222.202.100:23555#TW-Chunghwa Telecom
 118.163.175.167:23555#TW-Chunghwa Telecom
@@ -164,6 +166,7 @@
 45.78.55.32:28874#JP-IT7 Networks
 178.157.60.194:5777#JP-IT7 Networks
 192.243.124.104:56091#JP-IT7 Networks
+192.243.124.248:11223#JP-IT7 Networks
 206.190.234.185:33533#JP-IT7 Networks
 206.190.238.147:80#JP-IT7 Networks
 206.190.239.107:8080#JP-IT7 Networks
