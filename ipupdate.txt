@@ -16,6 +16,7 @@
 193.134.209.114:20748#HK-Lucidacloud
 5.180.98.6:34237#HK-rainbow network
 35.220.251.52:443#HK-Cloudflare Warp
+38.147.188.86:8003#HK-Kaopu Cloud Hk Limited
 42.200.109.172:34574#HK-Netvigator
 43.129.251.240:52205#HK-Tencent cloud computing
 43.154.34.74:1935#HK-Tencent cloud computing
@@ -160,6 +161,7 @@
 38.47.125.193:34237#JP-Nearoute
 123.108.70.123:34237#JP-Nearoute
 141.11.138.208:443#JP-Nearoute
+172.84.92.108:42304#JP-Nearoute
 172.84.92.152:58723#JP-Nearoute
 23.106.131.230:990#JP-IT7 Networks
 23.106.131.230:8443#JP-IT7 Networks
@@ -264,4 +266,5 @@
 199.193.126.248:29325#us-Fiber-logic
 216.24.181.38:54324#us-Fiber-logic
 45.59.187.130:34237#us-DMI
+154.17.29.17:14835#us-DMIT
 89.208.246.168:35365#us-Hurricane Electric IPv6 tunnel broker
