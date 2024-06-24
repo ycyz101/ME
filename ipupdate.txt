@@ -140,6 +140,7 @@
 101.32.242.254:53821#SG-Tencent cloud computing
 119.28.189.227:32079#SG-Tencent cloud computing
 129.226.88.14:53149#SG-Tencent cloud computing
+129.226.208.212:34237#SG-Tencent cloud computing
 150.109.94.144:8900#SG-Tencent cloud computing
 159.138.106.242:80#SG-Tencent Huawei Cloud
 89.28.239.142:8443#SG-ByteVirt
@@ -173,6 +174,7 @@
 192.243.124.104:56091#JP-IT7 Networks
 192.243.124.248:11223#JP-IT7 Networks
 206.190.234.185:33533#JP-IT7 Networks
+206.190.238.27:443#JP-IT7 Networks
 206.190.238.147:80#JP-IT7 Networks
 206.190.239.107:8080#JP-IT7 Networks
 212.50.246.202:13703JP-IT7 Networks
@@ -230,6 +232,7 @@
 193.123.235.59:443#KR-Oracle Cloud
 193.123.239.18:49248#KR-Oracle Cloud
 23.105.223.11:8080#US-IT7 Networks Inc
+45.78.77.2:2052#US-IT7 Networks Inc
 67.230.160.122:50059#US-IT7 Networks Inc
 67.230.172.198:25111#US-IT7 Networks Inc
 89.208.242.68:40825#US-IT7 Networks Inc
