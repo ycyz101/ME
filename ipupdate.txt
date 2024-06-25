@@ -115,6 +115,7 @@
 34.80.169.1:443#TW-Google Cloud
 34.80.169.1:4443#TW-Google Cloud
 34.80.227.7:9998#TW-Google Cloud
+34.81.172.46:823#TW-Google Cloud
 35.201.203.106:443#TW-Google Cloud
 35.229.179.98:25775#TW-Google Cloud
 60.249.89.74:23555#TW-Chunghwa Telecom
