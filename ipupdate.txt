@@ -364,5 +364,51 @@
 49.51.72.180:34237#us-California
 49.51.72.220:34237#us-California
 49.51.73.85:34237#us-California
+104.168.102.121:2053#us-California
+104.207.148.215:2083#us-California
+104.207.153.160:443#us-California
+104.168.28.65:443#us-California
+104.238.180.240:443#us-California
+104.243.24.88:34237#us-California
+107.172.137.69:2053#us-New York
+107.172.140.11:44#us-New York
+107.172.157.126:34237#us-New York
+107.172.88.235:8443#us-New York
+107.172.98.54:34237#us-California
+107.172.98.6:8443#us-California
+107.173.104.175:2053#us-New York
+107.173.148.41:8443#us-California
+107.173.154.24:2096#us-California
+107.173.171.219:443#us-New York
+107.173.189.234:443#us-New York
+107.173.201.68:8443#us-New York
+107.173.248.133:443#us-New York
+107.173.251.119:443#us-New York
+107.173.83.158:443#us-California
+142.171.131.17:8443#us-California
+142.171.157.31:34237#us-California
+142.171.166.116:443#us-California
+142.171.187.75:443#us-California
+142.171.199.114:8443#us-California
+142.171.210.8:34237#us-California
+142.171.214.99:34237#us-California
+142.171.225.203:443#us-California
+142.171.233.183:443#us-California
+142.171.234.234:8443#us-California
+142.171.251.179:2053#us-California
+142.171.85.241:443#us-California
+38.180.6.109:2053#us-New York
+38.180.6.109:8443#us-New York
+38.180.60.25:2053#us-New York
+38.180.61.115:2053#us-New York
+38.180.61.115:8443#us-New York
+154.17.16.207:443#us-California
+154.17.16.207:8443#us-California
+154.17.19.12:34237#us-California
+154.17.227.47:443#us-California
+154.17.229.59:8443#us-California
+154.17.230.16:443#us-California
+154.17.231.6:34237#us-California
+154.19.242.205:443#us-California
 34.85.152.203:443#us-Washington, D.C.
 34.86.193.161:443#us-Washington, D.C.
