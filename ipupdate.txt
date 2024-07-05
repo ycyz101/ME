@@ -34,6 +34,7 @@
 112.120.250.175:44333#HK-Netvigator Home Broadband
 43.224.50.213:36799#HK-Broadband Network
 123.202.145.26:443#HK-Broadband Network
+104.208.118.254:433#HK-Microsoft Azure
 152.32.190.239:4331#HK-Ucloud Information Technloy
 193.110.201.23:443#HK-DMIT
 202.81.235.17:4331#HK-2012 Netfront
