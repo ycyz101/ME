@@ -7,6 +7,7 @@
 43.154.34.74:1935#HK-Tencent cloud computing
 119.28.189.227:32079#HK-Tencent cloud computing
 112.120.250.175:44333#HK-Netvigator Home Broadband
+193.110.201.23:443#HK-DMIT
 123.202.145.26:443#HK-Broadband Network
 202.81.235.17:443#HK-2012 Netfront
 45.153.130.138:51729#HK-Cloudie
@@ -22,6 +23,7 @@
 47.76.94.15:2053#HK-45102-Alibaba
 47.76.146.1:2083#HK-45102-Alibaba
 47.76.178.146:2083#HK-45102-Alibaba
+47.76.203.101:2053#HK-45102-Alibaba
 47.76.204.76:2053#HK-45102-Alibaba
 47.242.60.161:443#HK-45102-Alibaba
 47.242.155.183:2053#HK-45102-Alibaba
@@ -45,7 +47,6 @@
 8.210.66.190:2053#HK-45102-Alibaba
 8.210.66.190:2083#HK-45102-Alibaba
 8.210.100.23:2053#HK-45102-Alibaba
-47.76.203.101:2053#HK-45102-Alibaba
 8.210.146.108:2053#HK-45102-Alibaba
 8.210.200.31:11991#HK-45102-Alibaba
 8.217.145.40:2083#HK-45102-Alibaba
@@ -66,11 +67,11 @@
 35.229.179.98:25775#TW-Google Cloud
 60.249.89.74:23555#TW-Chunghwa Telecom
 125.227.213.107:23555#TW-Chunghwa Telecom
-210.68.95.96:443#TW-SeedNet
 203.69.248.40:27381#TW-Chunghwa Telecom
+210.68.95.96:443#TW-SeedNet
 211.72.156.10:23555#TW-Chunghwa Telecom
-211.72.156.17:23555#TW-Chunghwa Telecom
 211.72.156.11:23555#TW-Chunghwa Telecom
+211.72.156.17:23555#TW-Chunghwa Telecom
 211.75.223.83:23555#TW-Chunghwa Telecom
 43.134.166.213:10444#SG-Tencent cloud computing
 43.134.189.122:34237#SG-Tencent cloud computing
@@ -79,8 +80,8 @@
 43.156.119.123:58000#SG-Tencent cloud computing
 43.156.243.45:34237#SG-Tencent cloud computing
 119.28.189.227:32079#SG-Tencent cloud computing
-129.226.208.212:34237#SG-Tencent cloud computing
 150.109.94.144:8900#SG-Tencent cloud computing
+129.226.208.212:34237#SG-Tencent cloud computing
 89.28.239.142:8443#SG-ByteVirt
 4.193.111.126:40809#SG-Microsoft Azure
 103.167.151.24:17191#SG-HostHatch
@@ -143,8 +144,8 @@
 65.75.194.96:23190#us-DMI
 154.17.21.196:443#us-DMIT√
 154.21.91.6:15390#us-DMIT
-89.208.246.168:35365#us-Hurricane Electric IPv6 tunnel broker
 154.21.87.33:50787#us-DediPath
+89.208.246.168:35365#us-Hurricane Electric IPv6 tunnel broker
 51.107.8.47:8443#米兰
 104.40.244.228:443#阿姆斯特丹
 20.52.57.137:2053#法兰克福
