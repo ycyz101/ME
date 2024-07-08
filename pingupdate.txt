@@ -1,21 +1,20 @@
-45.78.20.110:14325#HK-xTom
 45.78.31.169:443#HK-xTom
+45.78.20.110:14325#HK-xTom
 45.159.48.224:443#HK-xTom
 149.104.30.88:20000#HK-Lucidacloud
 38.147.188.243:8001#HK-Global Communication Network
 103.20.222.23:10008#HK-Cnservers LLC
-43.154.34.74:1935#HK-Tencent cloud computing
 119.28.189.227:32079#HK-Tencent cloud computing
+43.154.34.74:1935#HK-Tencent cloud computing
 112.120.250.175:44333#HK-Netvigator Home Broadband
-193.110.201.23:443#HK-DMIT
 123.202.145.26:443#HK-Broadband Network
 202.81.235.17:443#HK-2012 Netfront
 45.153.130.138:51729#HK-Cloudie
 206.237.20.46:22402#HK-Cloudie
 206.237.20.46:50701#HK-Cloudie
 154.204.56.238:34237#HK-Multacom Corporation
-154.204.60.218:29876#HK-Multacom Corporation
 47.75.101.0:3443#HK-45102-Alibaba
+154.204.60.218:29876#HK-Multacom Corporation
 47.76.32.108:2083#HK-45102-Alibaba
 47.76.32.108:2053#HK-45102-Alibaba
 47.76.33.40:2053#HK-45102-Alibaba
@@ -67,8 +66,8 @@
 35.229.179.98:25775#TW-Google Cloud
 60.249.89.74:23555#TW-Chunghwa Telecom
 125.227.213.107:23555#TW-Chunghwa Telecom
-203.69.248.40:27381#TW-Chunghwa Telecom
 210.68.95.96:443#TW-SeedNet
+203.69.248.40:27381#TW-Chunghwa Telecom
 211.72.156.10:23555#TW-Chunghwa Telecom
 211.72.156.11:23555#TW-Chunghwa Telecom
 211.72.156.17:23555#TW-Chunghwa Telecom
@@ -80,11 +79,11 @@
 43.156.119.123:58000#SG-Tencent cloud computing
 43.156.243.45:34237#SG-Tencent cloud computing
 119.28.189.227:32079#SG-Tencent cloud computing
-150.109.94.144:8900#SG-Tencent cloud computing
 129.226.208.212:34237#SG-Tencent cloud computing
+150.109.94.144:8900#SG-Tencent cloud computing
 89.28.239.142:8443#SG-ByteVirt
-4.193.111.126:40809#SG-Microsoft Azure
 103.167.151.24:17191#SG-HostHatch
+4.193.111.126:40809#SG-Microsoft Azure
 89.28.239.142:8443#SG-Akile
 5.253.36.250:10687#SG-Akile
 185.81.28.50:34237#SG-Akile
@@ -106,12 +105,12 @@
 112.68.58.169:12172#JP-K-Opticom Corporation
 141.11.139.80:18666#JP-Sprint
 150.66.24.104:34237#JP-K
-172.84.92.174:8526#JP-Digitalvirt
 45.159.48.224:443#JP-xTom
 185.184.223.19:59775#JP-xTom
-203.183.9.89:34237#JP-IDC Frontier
+172.84.92.174:8526#JP-Digitalvirt
 64.110.74.46:45929#KR-Oracle Cloud
 129.154.223.89:15800#KR-Oracle Cloud
+203.183.9.89:34237#JP-IDC Frontier
 132.145.91.171:8443#KR-Oracle Cloud
 132.145.91.226:15238#KR-Oracle Cloud
 132.226.21.116:6056#KR-Oracle Cloud
