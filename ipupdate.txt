@@ -136,6 +136,7 @@
 61.222.202.100:23555#TW-Chunghwa Telecom
 118.163.175.167:23555#TW-Chunghwa Telecom
 118.163.175.168:23555#TW-Chunghwa Telecom
+118.163.175.197:23555#TW-Chunghwa Telecom
 125.227.213.107:23555#TW-Chunghwa Telecom
 203.69.248.40:27381#TW-Chunghwa Telecom
 210.68.95.96:443#TW-SeedNet
