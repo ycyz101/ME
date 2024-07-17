@@ -34,6 +34,7 @@
 112.120.250.175:44333#HK-Netvigator Home Broadband
 43.224.50.213:36799#HK-Broadband Network
 123.202.145.26:443#HK-Broadband Network
+20.247.120.107:25383#HK-Microsoft Azure
 104.208.118.254:433#HK-Microsoft Azure
 152.32.190.239:4331#HK-Ucloud Information Technloy
 193.110.201.23:443#HK-DMIT
@@ -173,6 +174,7 @@
 101.32.242.254:53821#SG-Tencent cloud computing
 119.28.189.227:32079#SG-Tencent cloud computing
 129.226.88.14:53149#SG-Tencent cloud computing
+129.226.158.125:8088#SG-Tencent cloud computing
 129.226.208.212:34237#SG-Tencent cloud computing
 150.109.94.144:8900#SG-Tencent cloud computing
 159.138.106.242:80#SG-Tencent Huawei Cloud
@@ -212,6 +214,7 @@
 45.78.51.33:57836#JP-IT7 Networks
 45.78.55.32:28874#JP-IT7 Networks
 45.78.57.229:23566#JP-IT7 Networks
+45.78.61.49:10484#JP-IT7 Networks
 178.157.60.194:5777#JP-IT7 Networks
 185.212.57.119:43048#JP-IT7 Networks
 192.243.121.236:59156#JP-IT7 Networks
@@ -266,6 +269,7 @@
 193.111.31.76:30001#JP-xTom
 203.183.9.89:34237#JP-IDC Frontier
 64.110.74.46:45929#KR-Oracle Cloud
+146.56.37.60:20017#KR-Oracle Cloud
 129.154.223.89:15800#KR-Oracle Cloud
 130.162.140.215:443#KR-Oracle Cloud
 130.162.142.158:34237#KR-Oracle Cloud
