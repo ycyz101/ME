@@ -103,6 +103,7 @@
 8.210.66.190:2083#HK-45102-Alibaba
 8.210.100.23:2053#HK-45102-Alibaba
 8.210.119.11:443#HK-45102-Alibaba
+8.210.142.146:12346#HK-45102-Alibaba
 8.210.146.108:2053#HK-45102-Alibaba
 8.210.200.31:11991#HK-45102-Alibaba
 8.217.145.40:2083#HK-45102-Alibaba
@@ -139,6 +140,7 @@
 35.201.203.106:443#TW-Google Cloud
 35.201.236.40:10501#TW-Google Cloud
 35.229.179.98:25775#TW-Google Cloud
+59.125.68.206:23555#TW-Chunghwa Telecom
 60.249.89.74:23555#TW-Chunghwa Telecom
 61.222.202.100:23555#TW-Chunghwa Telecom
 118.163.175.167:23555#TW-Chunghwa Telecom
@@ -155,6 +157,7 @@
 211.75.223.83:23555#TW-Chunghwa Telecom
 220.132.74.19:11683#TW-Chunghwa Telecom
 43.134.166.213:10444#SG-Tencent cloud computing
+43.134.181.60:53417#SG-Tencent cloud computing
 43.134.187.193:8989#SG-Tencent cloud computing
 43.134.189.122:34237#SG-Tencent cloud computing
 43.153.208.195:26306#SG-Tencent cloud computing
@@ -239,6 +242,7 @@
 38.47.124.79:55296#JP-VMISS
 43.153.181.217:443#JP-Tencent cloud computing
 45.66.129.147:46741#JP-tzulo
+45.159.50.60:50300#JP-Vultr
 103.170.233.160:4308#JP-Misaka Network
 103.200.30.150:27050#JP-rainbow network
 103.214.168.241:35557#JP-Silicon Cloud Global US
@@ -272,6 +276,7 @@
 138.2.116.23:1003#KR-Oracle Cloud
 138.2.116.23:1006#KR-Oracle Cloud
 140.238.8.194:15800#KR-Oracle Cloud
+140.238.20.223:35913#KR-Oracle Cloud
 146.56.37.60:20017#KR-Oracle Cloud
 146.56.38.95:57770#KR-Oracle Cloud
 146.56.42.31:48652#KR-Oracle Cloud
@@ -336,6 +341,7 @@
 216.24.181.38:54324#us-Fiber-logic
 45.59.187.130:34237#us-DMI
 65.75.194.96:23190#us-DMI
+154.17.16.155:38548#us-DMIT
 154.17.29.17:14835#us-DMIT
 154.17.21.196:443#us-DMIT√
 154.21.91.6:15390#us-DMIT
