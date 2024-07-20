@@ -86,6 +86,7 @@
 47.243.27.217:2053#HK-45102-Alibaba
 47.243.74.220:2053#HK-45102-Alibaba
 47.243.74.220:2083#HK-45102-Alibaba
+47.243.74.220:2087#HK-45102-Alibaba
 47.243.86.79:2053#HK-45102-Alibaba
 47.243.91.58:2053#HK-45102-Alibaba
 47.243.107.148:2053#HK-45102-Alibaba
@@ -158,6 +159,7 @@
 125.227.213.229:23555#TW-Chunghwa Telecom
 203.69.248.40:27381#TW-Chunghwa Telecom
 210.68.95.96:443#TW-SeedNet
+211.22.243.164:11772#TW-Chunghwa Telecom
 211.72.156.10:23555#TW-Chunghwa Telecom
 211.72.156.11:23555#TW-Chunghwa Telecom
 211.72.156.17:23555#TW-Chunghwa Telecom
@@ -179,6 +181,7 @@
 43.159.35.190:49142#SG-Tencent cloud computing
 43.159.43.107:34237#SG-Tencent cloud computing
 43.159.55.220:34237#SG-Tencent cloud computing
+43.159.57.102:34237#SG-Tencent cloud computing
 101.32.242.254:53821#SG-Tencent cloud computing
 119.28.113.40:34237#SG-Tencent cloud computing
 119.28.189.227:32079#SG-Tencent cloud computing
@@ -292,6 +295,7 @@
 140.238.8.194:15800#KR-Oracle Cloud
 140.238.20.223:35913#KR-Oracle Cloud
 146.56.37.60:20017#KR-Oracle Cloud
+146.56.37.60:20018#KR-Oracle Cloud
 146.56.38.95:57770#KR-Oracle Cloud
 146.56.42.31:48652#KR-Oracle Cloud
 146.56.46.84:443#KR-Oracle Cloud
