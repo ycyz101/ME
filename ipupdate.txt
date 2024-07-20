@@ -148,6 +148,7 @@
 35.201.203.106:443#TW-Google Cloud
 35.201.236.40:10501#TW-Google Cloud
 35.229.179.98:25775#TW-Google Cloud
+59.124.90.154:32495#TW-Chunghwa Telecom
 59.125.68.206:23555#TW-Chunghwa Telecom
 60.249.89.74:23555#TW-Chunghwa Telecom
 61.220.65.189:27114#TW-Chunghwa Telecom
@@ -182,6 +183,7 @@
 43.159.43.107:34237#SG-Tencent cloud computing
 43.159.55.220:34237#SG-Tencent cloud computing
 43.159.57.102:34237#SG-Tencent cloud computing
+43.163.2.254:34237#SG-Tencent cloud computing
 101.32.242.254:53821#SG-Tencent cloud computing
 119.28.113.40:34237#SG-Tencent cloud computing
 119.28.189.227:32079#SG-Tencent cloud computing
@@ -314,6 +316,7 @@
 193.123.239.18:49248#KR-Oracle Cloud
 23.105.223.11:8080#US-IT7 Networks Inc
 45.78.77.2:2052#US-IT7 Networks Inc
+64.64.235.152:443#US-IT7 Networks Inc
 64.64.253.96:34237#US-IT7 Networks Inc
 67.230.160.122:50059#US-IT7 Networks Inc
 67.230.172.198:25111#US-IT7 Networks Inc
