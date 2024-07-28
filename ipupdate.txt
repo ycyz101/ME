@@ -43,6 +43,7 @@
 104.208.118.254:433#HK-Microsoft Azure
 152.32.190.239:4331#HK-Ucloud Information Technloy
 193.110.201.23:443#HK-DMIT
+202.81.231.150:443#HK-2012 Netfront
 202.81.235.17:4331#HK-2012 Netfront
 202.81.235.17:443#HK-2012 Netfront
 45.89.233.78:15548#HK-Cloudie
@@ -150,6 +151,7 @@
 34.80.86.119:23555#TW-Chunghwa Telecom
 34.80.86.119:4443#TW-Google Wifi
 35.201.203.106:4443#TW-Google Wifi
+35.201.203.106:443#TW-Google Wifi
 34.80.80.147:31103#TW-Google Cloud
 34.80.169.1:443#TW-Google Cloud
 34.80.169.1:4443#TW-Google Cloud
@@ -171,6 +173,7 @@
 125.227.213.107:23555#TW-Chunghwa Telecom
 125.227.213.229:23555#TW-Chunghwa Telecom
 203.69.248.40:27381#TW-Chunghwa Telecom
+211.75.243.91:16764#TW-Chunghwa Telecom
 103.123.133.244:18846#TW-Sky Digital
 103.137.63.37:46832#TW-Pittqiao Network
 210.68.95.96:443#TW-SeedNet
