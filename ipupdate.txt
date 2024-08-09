@@ -189,10 +189,6 @@
 125.227.213.107:23555#TW-Chunghwa Telecom
 125.227.213.229:23555#TW-Chunghwa Telecom
 203.69.248.40:27381#TW-Chunghwa Telecom
-211.75.243.91:16764#TW-Chunghwa Telecom
-103.123.133.244:18846#TW-Sky Digital
-103.137.63.37:46832#TW-Pittqiao Network
-210.68.95.96:443#TW-SeedNet
 211.22.243.164:11772#TW-Chunghwa Telecom
 211.72.156.10:23555#TW-Chunghwa Telecom
 211.72.156.11:23555#TW-Chunghwa Telecom
@@ -227,7 +223,10 @@
 159.138.106.242:80#SG-Tencent Huawei Cloud
 89.28.239.142:443#SG-ByteVirt
 89.28.239.142:8443#SG-ByteVirt
+103.123.133.244:18846#TW-Sky Digital
+103.137.63.37:46832#TW-Pittqiao Network
 103.167.151.24:17191#SG-HostHatch
+210.68.95.96:443#TW-SeedNet
 4.193.111.126:40809#SG-Microsoft Azure
 89.28.239.142:8443#SG-Akile
 5.253.36.250:10687#SG-Akile
