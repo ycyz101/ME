@@ -41,9 +41,7 @@
 123.202.145.26:443#HK-Broadband Network
 183.178.22.246:11417#HK-Broadband Network
 183.178.22.246:36669#HK-Broadband Network
-20.205.131.206:54043#HK-Microsoft Azure
-20.247.120.107:25383#HK-Microsoft Azure
-104.208.118.254:433#HK-Microsoft Azure
+119.247.186.144:28717#HK-Vocus
 152.32.190.239:4331#HK-Ucloud Information Technloy
 193.110.201.23:443#HK-DMIT
 194.169.55.101:19886#HK-WebHorizon
@@ -162,10 +160,13 @@
 161.117.249.114:2025#HK-45102-Alibaba Cloud
 20.187.105.97:44097#HK-Microsoft Azure
 20.187.117.232:32340#HK-Microsoft Azure
+20.205.131.206:54043#HK-Microsoft Azure
 20.239.29.247:34237#HK-Microsoft Azure
+20.247.120.107:25383#HK-Microsoft Azure
 20.247.124.228:55283#HK-Microsoft Azure
 20.255.48.247:52138#HK-Microsoft Azure
 52.175.20.132:32211#HK-Microsoft Azure
+104.208.118.254:433#HK-Microsoft Azure
 34.80.86.119:23555#TW-Chunghwa Telecom
 34.80.86.119:4443#TW-Google Wifi
 35.201.203.106:4443#TW-Google Wifi
@@ -221,6 +222,7 @@
 101.32.242.254:53821#SG-Tencent cloud computing
 119.28.113.40:34237#SG-Tencent cloud computing
 119.28.189.227:32079#SG-Tencent cloud computing
+123.241.137.138:12071#SG-Tencent cloud computing
 129.226.88.14:53149#SG-Tencent cloud computing
 129.226.158.125:8088#SG-Tencent cloud computing
 129.226.208.212:34237#SG-Tencent cloud computing
@@ -388,6 +390,7 @@
 89.208.254.6:34237#US-IT7 Networks Inc
 93.179.100.135:22144#US-IT7 Networks Inc
 93.179.100.191:444#US-IT7 Networks Inc
+104.194.86.106:443#US-IT7 Networks Inc
 107.182.17.52:34237#US-IT7 Networks Inc
 173.242.113.15:19480#US-IT7 Networks Inc
 173.242.117.79:8081#US-IT7 Networks Inc
