@@ -25,6 +25,7 @@
 38.147.188.171:8005#HK-Purevoltage Enterprises
 38.147.188.243:8001#HK-Global Communication Network
 42.200.109.172:34574#HK-Netvigator
+43.129.81.121:10801#HK-Tencent cloud computing
 43.129.251.240:52205#HK-Tencent cloud computing
 43.154.34.74:1935#HK-Tencent cloud computing
 43.154.45.8:31717#HK-Tencent cloud computing
@@ -64,6 +65,7 @@
 47.57.14.238:4328#HK-45102-Alibaba
 47.57.237.149:6545#HK-45102-Alibaba
 47.75.101.0:3443#HK-45102-Alibaba
+47.75.222.184:15002#HK-45102-Alibaba
 47.76.26.26:2053#HK-45102-Alibaba
 47.76.32.108:2083#HK-45102-Alibaba
 47.76.32.108:2053#HK-45102-Alibaba
@@ -103,6 +105,7 @@
 47.242.202.230:2083#HK-45102-Alibaba
 47.242.234.127:443#HK-45102-Alibaba
 47.242.234.127:2053#HK-45102-Alibaba
+47.243.5.154:2053#HK-45102-Alibaba
 47.243.18.199:2053#HK-45102-Alibaba
 47.243.27.217:2053#HK-45102-Alibaba
 47.243.74.220:2053#HK-45102-Alibaba
@@ -182,6 +185,7 @@
 34.80.53.75:8443#TW-Google Cloud
 34.80.80.147:31103#TW-Google Cloud
 34.80.84.234:2053#TW-Google Cloud
+34.80.107.204:34579#TW-Google Cloud
 34.80.169.1:443#TW-Google Cloud
 34.80.169.1:4443#TW-Google Cloud
 34.80.227.7:9998#TW-Google Cloud
@@ -225,6 +229,7 @@
 43.156.6.97:10392#SG-Tencent cloud computing
 43.156.56.22:7676#SG-Tencent cloud computing
 43.156.97.73:20872#SG-Tencent cloud computing
+43.156.97.73:57145#SG-Tencent cloud computing
 43.156.119.123:58000#SG-Tencent cloud computing
 43.156.143.198:40809#SG-Tencent cloud computing
 43.156.243.45:34237#SG-Tencent cloud computing
@@ -296,6 +301,7 @@
 192.243.126.180:20129#JP-IT7 Networks
 206.190.234.185:33533#JP-IT7 Networks
 206.190.236.96:15393#JP-IT7 Networks
+206.190.236.135:56648#JP-IT7 Networks
 206.190.238.27:443#JP-IT7 Networks
 206.190.238.147:80#JP-IT7 Networks
 206.190.239.107:8080#JP-IT7 Networks
@@ -384,6 +390,7 @@
 146.56.144.32:11202#KR-Oracle Cloud
 146.56.146.7:21317#KR-Oracle Cloud
 146.56.146.129:28756#KR-Oracle Cloud
+146.56.166.59:46060#KR-Oracle Cloud
 146.56.171.182:11659#KR-Oracle Cloud
 152.70.232.173:28756#KR-Oracle Cloud
 152.70.239.134:34237#KR-Oracle Cloud
