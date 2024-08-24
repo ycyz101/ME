@@ -20,6 +20,7 @@
 193.134.209.114:20748#HK-Lucidacloud
 5.180.98.6:34237#HK-rainbow network
 34.150.88.189:36231#HK-Google Cloud
+35.220.187.144:4835#HK-Google Cloud
 35.220.251.52:443#HK-Cloudflare Warp
 38.147.188.86:8003#HK-Kaopu Cloud Hk Limited
 38.147.188.171:8005#HK-Purevoltage Enterprises
