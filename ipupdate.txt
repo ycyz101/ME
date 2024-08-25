@@ -21,6 +21,7 @@
 5.180.98.6:34237#HK-rainbow network
 34.150.88.189:36231#HK-Google Cloud
 35.220.187.144:4835#HK-Google Cloud
+35.241.90.193:18898#HK-Google Cloud
 35.220.251.52:443#HK-Cloudflare Warp
 38.147.188.86:8003#HK-Kaopu Cloud Hk Limited
 38.147.188.171:8005#HK-Purevoltage Enterprises
@@ -81,6 +82,7 @@
 47.76.146.1:443#HK-45102-Alibaba
 47.76.146.1:2083#HK-45102-Alibaba
 47.76.178.146:2083#HK-45102-Alibaba
+47.76.178.146:443#HK-45102-Alibaba
 47.76.189.102:2053#HK-45102-Alibaba
 47.76.192.24:2053#HK-45102-Alibaba
 47.76.203.101:2053#HK-45102-Alibaba
@@ -190,12 +192,14 @@
 34.80.169.1:443#TW-Google Cloud
 34.80.169.1:4443#TW-Google Cloud
 34.80.227.7:9998#TW-Google Cloud
+34.81.24.14:50581#TW-Google Cloud
 34.81.172.46:823#TW-Google Cloud
 34.81.179.207:51360#TW-Google Cloud
 35.201.203.106:443#TW-Google Cloud
 35.201.236.40:10501#TW-Google Cloud
 35.221.131.178:10240#TW-Google Cloud
 35.229.179.98:25775#TW-Google Cloud
+35.229.227.97:59793#TW-Google Cloud
 103.123.133.244:18846#TW-Sky Digital
 116.241.50.141:18499#TW-TBC
 123.241.137.138:12071#TW-TBC
@@ -243,6 +247,7 @@
 119.28.113.40:34237#SG-Tencent cloud computing
 119.28.189.227:32079#SG-Tencent cloud computing
 123.241.137.138:12071#SG-Tencent cloud computing
+124.156.203.197:38111#SG-Tencent cloud computing
 129.226.88.14:53149#SG-Tencent cloud computing
 129.226.158.125:8088#SG-Tencent cloud computing
 129.226.208.212:34237#SG-Tencent cloud computing
@@ -287,6 +292,7 @@
 23.106.143.207:31684#JP-IT7 Networks
 43.153.181.217:443#JP-IT7 Networks
 45.78.48.120:29853#JP-IT7 Networks
+45.78.49.34:443#JP-IT7 Networks
 45.78.51.33:57836#JP-IT7 Networks
 45.78.55.32:28874#JP-IT7 Networks
 45.78.57.229:23566#JP-IT7 Networks
@@ -393,6 +399,7 @@
 146.56.146.129:28756#KR-Oracle Cloud
 146.56.166.59:46060#KR-Oracle Cloud
 146.56.171.182:11659#KR-Oracle Cloud
+152.70.90.168:443#KR-Oracle Cloud
 152.70.232.173:28756#KR-Oracle Cloud
 152.70.239.134:34237#KR-Oracle Cloud
 152.70.245.66:12693#KR-Oracle Cloud
@@ -425,6 +432,7 @@
 93.179.100.191:444#US-IT7 Networks Inc
 104.194.86.106:443#US-IT7 Networks Inc
 107.182.17.52:34237#US-IT7 Networks Inc
+138.128.194.60:51916#US-IT7 Networks Inc
 173.242.113.15:19480#US-IT7 Networks Inc
 173.242.117.79:8081#US-IT7 Networks Inc
 173.242.119.8:53151#US-IT7 Networks Inc
