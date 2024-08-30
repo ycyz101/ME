@@ -47,6 +47,7 @@
 112.120.250.175:44333#HK-Netvigator Home Broadband
 203.198.16.117:81#HK-Netvigator Home Broadband
 43.224.50.213:36799#HK-Broadband Network
+47.243.200.219:35002#HK-Broadband Network
 58.176.95.46:443#HK-Broadband Network
 58.176.229.127:35002#HK-Broadband Network
 119.247.140.108:29722#HK-Broadband Network
@@ -108,6 +109,7 @@
 47.242.60.161:443#HK-45102-Alibaba
 47.242.119.104:2053#HK-45102-Alibaba
 47.242.147.15:40680#HK-45102-Alibaba
+47.242.147.15:56277#HK-45102-Alibaba
 47.242.155.183:2053#HK-45102-Alibaba
 47.242.169.69:52721#HK-45102-Alibaba
 47.242.171.94:443#HK-45102-Alibaba
@@ -347,6 +349,7 @@
 20.37.97.198:15357#JP-Microsoft Azure
 20.37.114.66:34237#JP-Microsoft Azure
 20.78.32.117:38323#JP-Microsoft Azure
+20.222.234.168:41553#JP-Microsoft Azure
 20.243.85.49:10443#JP-Microsoft Azure
 23.158.24.65:24612#JP-ZgoShop
 34.84.20.87:12529#JP-Google Cloud
@@ -433,6 +436,7 @@
 152.70.239.134:34237#KR-Oracle Cloud
 152.70.245.66:12693#KR-Oracle Cloud
 193.122.103.10:45171#KR-Oracle Cloud
+193.122.115.74:52314#KR-Oracle Cloud
 193.123.232.127:31137#KR-Oracle Cloud
 193.123.233.169:39803#KR-Oracle Cloud
 193.123.235.59:443#KR-Oracle Cloud
