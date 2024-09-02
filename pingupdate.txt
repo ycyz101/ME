@@ -1,12 +1,12 @@
-45.78.20.110:14325#HK-xTom
 45.78.31.169:443#HK-xTom
+45.78.20.110:14325#HK-xTom
 45.159.48.224:443#HK-xTom
 149.104.30.88:20000#HK-Lucidacloud
 35.220.217.64:13778#HK-Google Cloud
 203.198.16.117:28#HK-Cloudflare Warp
 43.129.171.137:443#HK-Tencent cloud computing
-43.154.34.74:1935#HK-Tencent cloud computing
 43.135.44.101:30002#HK-Tencent cloud computing
+43.154.34.74:1935#HK-Tencent cloud computing
 43.154.96.33:443#HK-Tencent cloud computing
 119.28.189.227:32079#HK-Tencent cloud computing
 163.53.246.105:25111#HK-Cnservers LLC
@@ -21,11 +21,11 @@
 183.178.22.246:11417#HK-Broadband Network
 183.178.22.246:36669#HK-Broadband Network
 119.247.186.144:28717#HK-Vocus
-202.81.235.17:443#HK-2012 Netfront
 202.81.231.150:443#HK-2012 Netfront
+202.81.235.17:443#HK-2012 Netfront
 156.251.180.181:21698#HK-Multacom Corporation
-47.56.196.176:9443#HK-45102-Alibaba
 154.204.60.218:29876#HK-Multacom Corporation
+47.56.196.176:9443#HK-45102-Alibaba
 47.75.101.0:3443#HK-45102-Alibaba
 47.242.147.15:56277#HK-45102-Alibaba
 47.242.169.69:52721#HK-45102-Alibaba
@@ -44,9 +44,9 @@
 35.221.131.178:10240#TW-Google Cloud
 35.229.227.97:59793#TW-Google Cloud
 123.241.137.138:12071#TW-TBC
+60.249.89.73:2004#TW-Chunghwa Telecom
 60.248.63.88:12832#TW-Chunghwa Telecom
 61.220.65.189:26832#TW-Chunghwa Telecom
-60.249.89.73:2004#TW-Chunghwa Telecom
 61.220.65.189:27114#TW-Chunghwa Telecom
 211.75.243.91:16764#TW-Chunghwa Telecom
 43.134.166.213:10444#SG-Tencent cloud computing
@@ -55,9 +55,9 @@
 43.156.97.73:57145#SG-Tencent cloud computing
 101.32.247.126:725#SG-Tencent cloud computing
 119.28.189.227:32079#SG-Tencent cloud computing
-123.241.137.138:12071#SG-Tencent cloud computing
 129.226.158.125:8088#SG-Tencent cloud computing
 150.109.94.144:8900#SG-Tencent cloud computing
+123.241.137.138:12071#SG-Tencent cloud computing
 190.92.213.24:443#SG-Tencent Huawei Cloud
 103.167.151.24:17191#SG-HostHatch
 210.68.95.96:443#TW-SeedNet
@@ -68,9 +68,10 @@
 38.47.126.190:40040#JP-Nearoute
 141.11.139.211:8443#JP-Nearoute
 23.106.131.230:990#JP-IT7 Networks
-172.84.92.152:58723#JP-Nearoute
+172.84.92.174:8526#JP-Nearoute
 45.78.49.34:443#JP-IT7 Networks
 45.78.61.49:10484#JP-IT7 Networks
+172.84.92.152:58723#JP-Nearoute
 192.243.124.73:8443#JP-IT7 Networks
 192.243.124.248:11223#JP-IT7 Networks
 192.243.126.180:20129#JP-IT7 Networks
@@ -88,6 +89,7 @@
 103.238.129.215:42734#JP-Level 3 Communications
 146.56.37.60:20017#JP-Amazon.com
 150.66.24.104:34237#JP-K
+172.84.92.174:8526#JP-Digitalvirt
 45.159.48.224:443#JP-xTom
 91.200.242.204:19090#JP-xTom
 176.119.149.241:3000#JP-xTom
@@ -125,7 +127,6 @@
 89.208.254.6:34237#US-IT7 Networks Inc
 93.179.100.135:22144#US-IT7 Networks Inc
 107.182.17.52:34237#US-IT7 Networks Inc
-138.128.194.60:51916#US-IT7 Networks Inc
 173.242.121.248:34237#US-IT7 Networks Inc
 173.242.123.147:443#US-IT7 Networks Inc
 199.19.106.201:8443#US-IT7 Networks Inc
@@ -140,6 +141,7 @@
 65.75.194.43:10511#us-DMIT
 65.75.195.188:50795#us-San Jose,906,DMIT
 154.17.2.49:26558#us-DMIT
+154.17.27.8:48655#us-DMIT
 154.21.91.6:15390#us-DMIT
 154.21.94.105:8883#us-DMIT
 174.136.206.70:39880#us-DMIT
@@ -168,7 +170,6 @@
 110.13.212.97:20880#KR | Chungcheong
 14.33.4.254:12185#KR | Chungcheong
 175.125.207.253:33060#KR | Chungcheong
-211.22.240.107:30686#TW | Kaohsiung
 142.171.174.14:12468#US-CA | Los Angeles
 146.56.136.49:61153#US-CA | Los Angeles
 193.122.110.164:25800#US-CA | Los Angeles
