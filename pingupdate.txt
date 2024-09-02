@@ -1,21 +1,22 @@
+45.159.48.224:443#HK-xTom
 45.78.20.110:14325#HK-xTom
 45.78.31.169:443#HK-xTom
-45.159.48.224:443#HK-xTom
 149.104.30.88:20000#HK-Lucidacloud
 35.220.217.64:13778#HK-Google Cloud
 203.198.16.117:28#HK-Cloudflare Warp
 43.129.171.137:443#HK-Tencent cloud computing
-43.135.44.101:30002#HK-Tencent cloud computing
 43.154.34.74:1935#HK-Tencent cloud computing
+43.135.44.101:30002#HK-Tencent cloud computing
 43.154.96.33:443#HK-Tencent cloud computing
 119.28.189.227:32079#HK-Tencent cloud computing
 163.53.246.105:25111#HK-Cnservers LLC
 163.53.246.186:31731#HK-Cnservers LLC
 203.198.16.117:81#HK-Netvigator Home Broadband
-58.176.95.46:443#HK-Broadband Network
+47.243.200.219:35002#HK-Broadband Network
 58.176.229.127:35002#HK-Broadband Network
-119.247.186.144:4434#HK-Broadband Network
+58.176.95.46:443#HK-Broadband Network
 119.247.140.108:29722#HK-Broadband Network
+119.247.186.144:4434#HK-Broadband Network
 123.202.145.26:443#HK-Broadband Network
 183.178.22.246:11417#HK-Broadband Network
 183.178.22.246:36669#HK-Broadband Network
@@ -23,7 +24,6 @@
 202.81.231.150:443#HK-2012 Netfront
 202.81.235.17:443#HK-2012 Netfront
 156.251.180.181:21698#HK-Multacom Corporation
-47.243.200.219:35002#HK-Broadband Network
 47.56.196.176:9443#HK-45102-Alibaba
 154.204.60.218:29876#HK-Multacom Corporation
 47.75.101.0:3443#HK-45102-Alibaba
@@ -45,8 +45,8 @@
 35.221.131.178:10240#TW-Google Cloud
 35.229.227.97:59793#TW-Google Cloud
 123.241.137.138:12071#TW-TBC
-60.248.63.88:12832#TW-Chunghwa Telecom
 60.249.89.73:2004#TW-Chunghwa Telecom
+60.248.63.88:12832#TW-Chunghwa Telecom
 61.220.65.189:26832#TW-Chunghwa Telecom
 61.220.65.189:27114#TW-Chunghwa Telecom
 211.75.243.91:16764#TW-Chunghwa Telecom
@@ -56,8 +56,8 @@
 43.156.97.73:57145#SG-Tencent cloud computing
 101.32.247.126:725#SG-Tencent cloud computing
 119.28.189.227:32079#SG-Tencent cloud computing
-123.241.137.138:12071#SG-Tencent cloud computing
 129.226.158.125:8088#SG-Tencent cloud computing
+123.241.137.138:12071#SG-Tencent cloud computing
 150.109.94.144:8900#SG-Tencent cloud computing
 190.92.213.24:443#SG-Tencent Huawei Cloud
 103.167.151.24:17191#SG-HostHatch
@@ -147,8 +147,8 @@
 154.17.2.49:26558#us-DMIT
 154.17.27.8:48655#us-DMIT
 154.21.91.6:15390#us-DMIT
-174.136.206.70:39880#us-DMIT
 174.136.206.95:57757#us-DMIT
+174.136.206.70:39880#us-DMIT
 154.21.87.33:50787#us-DediPath
 45.59.185.71:13649#us-Cloudflare Warp
 67.230.166.61:443#us-Hurricane Electric IPv6 tunnel broker
