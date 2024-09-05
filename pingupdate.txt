@@ -1,9 +1,9 @@
-45.78.31.169:443#HK-xTom
 45.159.48.224:443#HK-xTom
+45.78.31.169:443#HK-xTom
 45.78.20.110:14325#HK-xTom
 35.220.217.64:13778#HK-Google Cloud
-43.129.171.137:443#HK-Tencent cloud computing
 43.129.81.121:10801#HK-Tencent cloud computing
+43.129.171.137:443#HK-Tencent cloud computing
 43.135.44.101:30002#HK-Tencent cloud computing
 43.154.34.74:1935#HK-Tencent cloud computing
 43.154.96.33:443#HK-Tencent cloud computing
@@ -13,18 +13,18 @@
 47.243.200.219:35002#HK-Broadband Network
 58.176.229.127:35002#HK-Broadband Network
 119.247.140.108:29722#HK-Broadband Network
+58.176.95.46:443#HK-Broadband Network
 119.247.186.144:4434#HK-Broadband Network
-123.202.145.26:443#HK-Broadband Network
 183.178.22.246:11417#HK-Broadband Network
+123.202.145.26:443#HK-Broadband Network
 119.247.186.144:28717#HK-Vocus
 183.178.22.246:36669#HK-Broadband Network
 202.81.235.17:443#HK-2012 Netfront
 47.238.54.29:29653#HK-Akile
 156.251.180.181:21698#HK-Multacom Corporation
 202.81.231.150:443#HK-2012 Netfront
-154.204.60.218:29876#HK-Multacom Corporation
 47.56.196.176:9443#HK-45102-Alibaba
-58.176.95.46:443#HK-Broadband Network
+154.204.60.218:29876#HK-Multacom Corporation
 47.75.101.0:3443#HK-45102-Alibaba
 47.76.100.62:443#HK-45102-Alibaba
 47.238.154.106:23412#HK-45102-Alibaba
@@ -46,7 +46,6 @@
 122.99.28.174:12067#TW-Homeplus
 35.201.203.106:443#TW-Google Wifi
 35.201.203.106:443#TW-Google Cloud
-35.229.227.97:59793#TW-Google Cloud
 123.241.137.138:12071#TW-TBC
 210.68.95.96:443#TW-SeedNet
 1.34.89.47:13749#TW-Chunghwa Telecom
@@ -70,10 +69,10 @@
 4.193.111.126:40809#SG-Microsoft Azure
 172.252.245.21:34237#JP-Evoxt Enterprise
 38.47.126.190:40040#JP-Nearoute
-141.11.139.211:8443#JP-Nearoute
 172.84.92.152:58723#JP-Nearoute
 23.106.131.230:990#JP-IT7 Networks
 172.84.92.174:8526#JP-Nearoute
+141.11.139.211:8443#JP-Nearoute
 45.78.49.34:443#JP-IT7 Networks
 45.78.51.33:57836#JP-IT7 Networks
 45.78.61.49:10484#JP-IT7 Networks
@@ -93,8 +92,8 @@
 103.238.129.215:42734#JP-Level 3 Communications
 146.56.37.60:20017#JP-Amazon.com
 150.66.24.104:34237#JP-K
-172.84.92.174:8526#JP-Digitalvirt
 45.159.48.224:443#JP-xTom
+172.84.92.174:8526#JP-Digitalvirt
 91.200.242.204:19090#JP-xTom
 176.119.149.241:3000#JP-xTom
 176.119.149.242:3000#JP-xTom
@@ -104,6 +103,7 @@
 131.186.20.178:27194#KR-Oracle Cloud
 132.226.21.116:6056#KR-Oracle Cloud
 140.238.7.57:9999#KR-Oracle Cloud
+140.238.8.194:15800#KR-Oracle Cloud
 140.238.10.44:23253#KR-Oracle Cloud
 146.56.37.60:20017#KR-Oracle Cloud
 146.56.37.60:20018#KR-Oracle Cloud
@@ -148,8 +148,8 @@
 154.17.27.8:48655#us-DMIT
 154.21.91.6:15390#us-DMIT
 154.21.94.105:8883#us-DMIT
-174.136.206.95:57757#us-DMIT
 174.136.206.70:39880#us-DMIT
+174.136.206.95:57757#us-DMIT
 154.21.87.33:50787#us-DediPath
 45.59.185.71:13649#us-Cloudflare Warp
 67.230.166.61:443#us-Hurricane Electric IPv6 tunnel broker
@@ -173,6 +173,7 @@
 110.13.212.97:20880#KR | Chungcheong
 14.33.4.254:12185#KR | Chungcheong
 175.125.207.253:33060#KR | Chungcheong
+211.22.240.107:30686#TW | Kaohsiung
 142.171.174.14:12468#US-CA | Los Angeles
 146.56.136.49:61153#US-CA | Los Angeles
 193.122.110.164:25800#US-CA | Los Angeles
