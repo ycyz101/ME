@@ -1,30 +1,29 @@
-38.55.98.125:88#HK-xTom
-45.78.31.169:443#HK-xTom
 45.78.20.110:14325#HK-xTom
+45.78.31.169:443#HK-xTom
 45.159.48.224:443#HK-xTom
 149.104.30.88:20000#HK-Lucidacloud
 35.220.217.64:13778#HK-Google Cloud
 43.129.81.121:10801#HK-Tencent cloud computing
 43.129.171.137:443#HK-Tencent cloud computing
-43.135.44.101:30002#HK-Tencent cloud computing
 43.154.34.74:1935#HK-Tencent cloud computing
-119.28.189.227:32079#HK-Tencent cloud computing
+43.135.44.101:30002#HK-Tencent cloud computing
 43.154.96.33:443#HK-Tencent cloud computing
-163.53.246.186:31731#HK-Cnservers LLC
+119.28.189.227:32079#HK-Tencent cloud computing
 163.53.246.105:25111#HK-Cnservers LLC
+163.53.246.186:31731#HK-Cnservers LLC
 47.243.200.219:35002#HK-Broadband Network
 58.176.95.46:443#HK-Broadband Network
+123.202.145.26:443#HK-Broadband Network
 58.176.229.127:35002#HK-Broadband Network
 119.247.140.108:29722#HK-Broadband Network
 119.247.186.144:4434#HK-Broadband Network
-123.202.145.26:443#HK-Broadband Network
 183.178.22.246:11417#HK-Broadband Network
 183.178.22.246:36669#HK-Broadband Network
 119.247.186.144:28717#HK-Vocus
 202.81.235.17:443#HK-2012 Netfront
 47.238.54.29:29653#HK-Akile
-202.81.231.150:443#HK-2012 Netfront
 156.251.180.181:21698#HK-Multacom Corporation
+202.81.231.150:443#HK-2012 Netfront
 47.56.196.176:9443#HK-45102-Alibaba
 154.204.60.218:29876#HK-Multacom Corporation
 47.75.101.0:3443#HK-45102-Alibaba
@@ -53,8 +52,8 @@
 123.241.137.138:12071#TW-TBC
 210.68.95.96:443#TW-SeedNet
 1.34.89.47:13749#TW-Chunghwa Telecom
-60.248.63.88:12832#TW-Chunghwa Telecom
 60.249.89.73:2004#TW-Chunghwa Telecom
+60.248.63.88:12832#TW-Chunghwa Telecom
 61.220.65.189:26832#TW-Chunghwa Telecom
 61.220.65.189:27114#TW-Chunghwa Telecom
 211.75.243.91:16764#TW-Chunghwa Telecom
@@ -76,8 +75,6 @@
 141.11.139.211:8443#JP-Nearoute
 23.106.131.230:990#JP-IT7 Networks
 23.106.131.230:8883#JP-IT7 Networks
-172.84.92.152:58723#JP-Nearoute
-172.84.92.174:8526#JP-Nearoute
 45.78.49.34:443#JP-IT7 Networks
 45.78.51.33:57836#JP-IT7 Networks
 45.78.61.49:10484#JP-IT7 Networks
@@ -134,6 +131,7 @@
 193.123.232.127:31137#KR-Oracle Cloud
 193.123.233.169:39803#KR-Oracle Cloud
 193.123.235.59:443#KR-Oracle Cloud
+140.238.8.194:15800#KR-Oracle Cloud
 64.64.228.98:2053#US-IT7 Networks Inc
 64.64.253.96:34237#US-IT7 Networks Inc
 67.230.172.198:25111#US-IT7 Networks Inc
@@ -190,4 +188,3 @@
 146.56.136.49:61153#US-CA | Los Angeles
 193.122.110.164:25800#US-CA | Los Angeles
 211.246.192.9:10051#US-CA | Los Angeles
-211.22.240.107:30686#TW | Kaohsiung
