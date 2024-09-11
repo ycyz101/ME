@@ -74,7 +74,7 @@
 64.64.238.31:443#us-Fiber-logic
 64.64.253.96:34237#us-Fiber-logic
 65.75.194.43:10511#us-DMIT
-65.75.195.188:50795#us-San Jose,906,DMIT
+65.75.195.188:50795#us-San Jose
 67.230.166.61:443#us-Hurricane Electric IPv6 tunnel broker
 67.230.169.202:443#US-IT7
 67.230.173.106:21006#US-IT7 Networks Inc
