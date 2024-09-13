@@ -13,6 +13,7 @@
 8.218.53.44:39439#HK-45102-Alibaba
 8.218.245.116:41528#HK-45102-Alibaba
 14.33.4.254:12185#KR-Chungcheong
+20.222.106.176:41516#JP Microsoft#None
 20.239.29.247:34237#HK-Microsoft Azure
 20.243.85.49:10443#JP-Microsoft Azure
 23.106.131.230:990#JP-IT7 Networks
@@ -171,6 +172,7 @@
 183.178.22.246:36669#HK-Broadband Network
 183.178.22.246:11417#HK-Broadband Network
 185.126.80.215:25565#SG Akile#None
+188.64.108.41:80#SG As sharon#None
 190.92.213.24:443#SG-Tencent Huawei Cloud
 192.243.124.73:8443#JP-IT7 Networks
 192.243.124.248:11223#JP-IT7 Networks
