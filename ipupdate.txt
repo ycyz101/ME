@@ -226,4 +226,4 @@
 212.50.249.121:443#JP-IT7
 212.50.251.20:37507#JP-IT7
 212.52.0.61:1846#JP-HostHatch
-edgetunnel-free.pages.dev:443#Cloudflare-Anycast#None
+edgetunnel-free.pages.dev:443#Cloudflare Anycast#None
