@@ -102,7 +102,7 @@
 67.230.166.61:443#us-Hurricane Electric IPv6 tunnel broker
 67.230.169.202:443#US-IT7
 67.230.173.106:21006#US-IT7 Networks Inc
-67.230.181.156:46764#US IT7#None
+67.230.181.156:46764#US-IT7
 74.120.170.56:443#US IT7
 80.251.219.120:14105#us-Fiber-logic
 89.208.243.139:10443#US-IT7 Networks Inc
@@ -238,4 +238,4 @@
 212.50.249.121:443#JP-IT7
 212.50.251.20:37507#JP-IT7
 212.52.0.61:1846#JP-HostHatch
-edgetunnel-free.pages.dev:443#Cloudflare Anycast#None
+edgetunnel-free.pages.dev:443#Cloudflare-Anycast
