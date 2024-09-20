@@ -229,7 +229,7 @@
 202.81.235.17:443#HK-2012 Netfront
 206.190.234.92:58504#JP-IT7 Networks
 206.190.239.107:8080#JP-IT7 Networks
-210.61.97.241:81#TW-3462
+210.61.97.241:81#TW-Chunghwa
 210.68.95.96:443#TW-SeedNet
 211.75.243.91:16764#TW-Chunghwa Telecom
 211.246.192.9:10051#US-CA-Los Angeles
@@ -237,4 +237,4 @@
 212.50.249.121:443#JP-IT7
 212.50.251.20:37507#JP-IT7
 212.52.0.61:1846#JP-HostHatch
-edgetunnel-free.pages.dev:443#Cloudflare Anycast#None
+edgetunnel-free.pages.dev:443#Cloudflare-Anycast
