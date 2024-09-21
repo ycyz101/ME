@@ -66,6 +66,7 @@
 47.56.196.176:9443#HK-45102-Alibaba
 47.75.101.0:3443#HK
 47.76.100.62:443#HK-45102-Alibaba
+47.76.111.33:587#HK 45102 Alibaba#None
 47.238.54.29:29653#HK-Akile
 47.238.140.38:45734#HK-45102-Alibaba
 47.238.154.106:23412#HK-45102-Alibaba
@@ -202,6 +203,7 @@
 176.119.149.242:3000#JP-xTom
 176.119.149.243:3000#JP-xTom
 176.119.150.204:2008#JP-Tokyo
+178.157.62.29:42484#JP IT7#None
 183.178.22.246:36669#HK-Broadband-Network
 183.178.22.246:11417#HK-Broadband-Network
 185.126.80.215:25565#SG-Akile
@@ -238,4 +240,4 @@
 212.50.249.121:443#JP-IT7
 212.50.251.20:37507#JP-IT7
 212.52.0.61:1846#JP-HostHatch
-edgetunnel-free.pages.dev:443#Cloudflare-Anycast#None
+edgetunnel-free.pages.dev:443#Cloudflare Anycast#None
