@@ -159,6 +159,7 @@
 161.117.249.114:2025#HK-45102-Alibaba-Cloud
 163.53.246.105:25930#HK-Cnservers
 163.53.246.105:25111#HK-Cnservers-LLC
+163.53.246.105:25950#HK-Cnservers#None
 163.53.246.186:31731#HK-Cnservers-LLC
 167.88.186.167:65455#JP-VMISS
 168.138.191.71:14978#SG
@@ -203,4 +204,4 @@
 212.50.247.70:8848#JP-IT7-Networks
 212.50.254.116:26774#JP-IT7
 212.52.0.61:1846#JP-HostHatch
-edgetunnel-free.pages.dev:443#Cloudflare-Anycast
+edgetunnel-free.pages.dev:443#Cloudflare-Anycast#None
