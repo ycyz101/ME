@@ -58,7 +58,7 @@
 47.238.242.81:7238#HK-45102-Alibaba
 47.242.59.213:39124#HK-45102-45102
 47.242.126.60:23815#HK-45102-Alibaba
-47.242.126.60:32606#HK-45102-Alibaba#None
+47.242.126.60:32606#HK-45102-Alibaba
 47.242.147.15:56277#HK-45102-Alibaba
 47.242.169.69:52721#HK-45102-Alibaba
 47.242.172.10:45936#HK-45102-Alibaba
@@ -205,4 +205,4 @@
 212.50.247.70:8848#JP-IT7-Networks
 212.50.254.116:26774#JP-IT7
 212.52.0.61:1846#JP-HostHatch
-edgetunnel-free.pages.dev:443#Cloudflare-Anycast#None
+edgetunnel-free.pages.dev:443#Cloudflare-Anycast
