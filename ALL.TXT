@@ -1,4 +1,4 @@
-172.66.47.196:443#Cloudflare-Anycast
+172.66.44.60:443#Cloudflare-Anycast
 8.210.59.145:41542#HK-45102-Alibaba
 61.92.139.201:10311#HK-Hong
 219.75.135.211:25284#JP-K-Opticom
