@@ -1,7 +1,7 @@
 172.66.44.60:443#Cloudflare-Anycast
 172.66.47.196:443#Cloudflare-Anycast
-2606:4700:310c::ac42:2c3c:443#Cloudflare-Anycast
 2606:4700:310c::ac42:2fc4:443#Cloudflare-Anycast
+2606:4700:310c::ac42:2c3c:443#Cloudflare-Anycast
 129.226.167.17:55213#HK-Tencent
 14.198.184.90:10833#HK-Hong
 154.9.246.89:25111#HK-Cloudie
@@ -18,6 +18,7 @@
 8.217.34.65:26009#JP-45102-Vultr
 47.243.126.13:51107#SG-45102-Vultr
 210.16.122.112:2053#TW-Liberally
+210.61.97.241:81#TW-3462
 210.61.97.241:81#TW-Chunghwa
 59.120.116.28:34076#TW-Chunghwa
 59.120.116.28:34333#TW-Chunghwa
