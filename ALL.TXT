@@ -2,6 +2,7 @@
 172.66.47.196:443#Cloudflare-Anycast
 2606:4700:310c::ac42:2fc4:443#Cloudflare-Anycast
 2606:4700:310c::ac42:2c3c:443#Cloudflare-Anycast
+119.246.38.110:12809#HK-Hong
 129.226.167.17:55213#HK-Tencent
 14.198.184.90:10833#HK-Hong
 154.9.246.89:25111#HK-Cloudie
