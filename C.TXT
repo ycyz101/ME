@@ -1,4 +1,4 @@
 172.66.44.60:443#Cloudflare-Anycast
 172.66.47.196:443#Cloudflare-Anycast
-2606:4700:310c::ac42:2fc4:443#Cloudflare-Anycast
 2606:4700:310c::ac42:2c3c:443#Cloudflare-Anycast
+2606:4700:310c::ac42:2fc4:443#Cloudflare-Anycast
