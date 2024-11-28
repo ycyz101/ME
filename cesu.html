@@ -1,0 +1,150 @@
+
+    <!DOCTYPE html>
+    <html lang="zh">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>IP 测试结果</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                text-align: center;
+                margin: 0;
+                padding: 0;
+                background-color: #f9f9f9;
+            }
+            h2 {
+                margin-top: 20px;
+                font-size: 24px;
+            }
+            .info {
+                font-size: 18px;
+                margin: 20px 0;
+            }
+            table {
+                width: 90%;
+                margin: 0 auto;
+                border-collapse: collapse;
+                margin-top: 20px;
+            }
+            th, td {
+                padding: 12px;
+                text-align: center;
+                border: 1px solid #ddd;
+                font-size: 16px;
+            }
+            th {
+                background-color: #f2f2f2;
+            }
+            tr:nth-child(even) {
+                background-color: #f9f9f9;
+            }
+            .countdown {
+                color: #ff4500;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+
+        <h2>IP 测试结果</h2>
+        <div class="info">
+            本测试结果为首尔对内地的香港ip，每 <span id="countdown" class="countdown">15:00</span> 自动更新。
+        </div>
+
+        <h3>联通 IP 测试前 10 名</h3>
+        <table id="unicom-table">
+            <thead>
+                <tr>
+                    <th>IP地址</th>
+                    <th>平均延迟</th>
+                    <th>已发送</th>
+                    <th>已接收</th>
+                    <th>丢包率</th>
+                    <th>下载速度</th>
+                    <th>测速时间</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+            <tr>
+                <td>103.21.244.1</td>
+                <td>3.271</td>
+                <td>10</td>
+                <td>10</td>
+                <td>0</td>
+                <td>50 Mbps</td>
+                <td>2024-11-28 02:18:48</td>
+            </tr>
+            
+
+            <tr>
+                <td>103.22.200.5</td>
+                <td>71.968</td>
+                <td>10</td>
+                <td>10</td>
+                <td>0</td>
+                <td>50 Mbps</td>
+                <td>2024-11-28 02:18:51</td>
+            </tr>
+            
+
+            <tr>
+                <td>104.16.0.20</td>
+                <td>3.236</td>
+                <td>10</td>
+                <td>10</td>
+                <td>0</td>
+                <td>50 Mbps</td>
+                <td>2024-11-28 02:19:07</td>
+            </tr>
+            
+            </tbody>
+        </table>
+
+        <h3>移动 IP 测试前 10 名</h3>
+        <table id="mobile-table">
+            <thead>
+                <tr>
+                    <th>IP地址</th>
+                    <th>平均延迟</th>
+                    <th>已发送</th>
+                    <th>已接收</th>
+                    <th>丢包率</th>
+                    <th>下载速度</th>
+                    <th>测速时间</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+            </tbody>
+        </table>
+
+        <script>
+            // 倒计时函数
+            let countdownElement = document.getElementById('countdown');
+            let minutes = 14;
+            let seconds = 59;
+
+            function updateCountdown() {
+                if (seconds === 0) {
+                    if (minutes === 0) {
+                        minutes = 14;
+                        seconds = 59;
+                    } else {
+                        minutes--;
+                        seconds = 59;
+                    }
+                } else {
+                    seconds--;
+                }
+
+                countdownElement.textContent = `${minutes < 10 ? '0' : ''}${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+            }
+
+            setInterval(updateCountdown, 1000); // 每秒更新倒计时
+        </script>
+
+    </body>
+    </html>
+    
